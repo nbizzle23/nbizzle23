@@ -1,6 +1,14 @@
 
 ![Hi there](https://pbs.twimg.com/profile_banners/993207710337265664/1555762807/1080x360) 
 
+- 🔭 I’m currently working on ...
+
+- 💬 Ask me about ...
+
+- 📫 How to reach me: ...
+
+- ⚡ Fun fact: ...
+
 <!--
 **nbizzle23/nbizzle23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
