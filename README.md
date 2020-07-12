@@ -1,4 +1,6 @@
-### Hi there 👋
+
+
+![Hi there](https://avatars1.githubusercontent.com/u/40554225?s=460&u=40efc2f6ee28168132fc9579c9dac8856a41f3bb&v=4) 
 
 <!--
 **nbizzle23/nbizzle23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
