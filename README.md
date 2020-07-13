@@ -1,13 +1,13 @@
 
-![Hi there](https://pbs.twimg.com/profile_banners/993207710337265664/1594573132/1080x360) 
+![Hi there](https://www.licedoctors.com/sites/default/files/graphic%20image%20of%20lightbulb%20surrounded%20by%20mathematical%20and%20chemical%20equations%2C%20teal%20color%20scheme-BANNER.png) 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a evulation of a sportsbook based on handicap data
 
-- 💬 Ask me about ...
+- 💬 Inquire about possible collaborations
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: nburke2@lakeheadu.ca
 
-- ⚡ Fun fact: ...
+- ⚡ Data driven decision making
 
 <!--
 **nbizzle23/nbizzle23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
