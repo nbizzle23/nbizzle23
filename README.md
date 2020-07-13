@@ -1,5 +1,5 @@
 
-![Hi there](https://www.licedoctors.com/sites/default/files/graphic%20image%20of%20lightbulb%20surrounded%20by%20mathematical%20and%20chemical%20equations%2C%20teal%20color%20scheme-BANNER.png) 
+![Hi there](https://www.uno.edu/sites/default/files/styles/uno_hero_full/public/banners/math-hero.jpg?itok=Vu7FkIxu) 
 
 - 🔭 I’m currently working on a evaluation of a sportsbook based on handicap data
 
